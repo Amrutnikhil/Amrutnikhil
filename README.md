@@ -1,4 +1,4 @@
-# Hi there, I’m Amrutnikhil 👋
+# Hi there, I’m Amrut B Nargund 👋
 
 🎓 **Student | ECE Major | CSE Minor**  
 Currently a 3rd-year Electronics & Communication Engineering student at PES University, Bangalore, with a passion for technology and innovation. Alongside my major in ECE, I’m pursuing a minor in Computer Science Engineering and have completed a focused course in Artificial Intelligence.
