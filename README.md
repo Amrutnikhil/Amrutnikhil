@@ -36,21 +36,10 @@ Currently a 3rd-year Electronics & Communication Engineering student at PES Univ
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/amrut-badri-524651277/)  
-
----
-
-## 🏡 Location
-
-- Bangalore, India
-
----
-
-## 💡 Fun Fact
-
-I love solving puzzles, riding, traveling, and drawing! Always up for a challenge and new experiences.
+- [LinkedIn](https://www.linkedin.com/in/amrut-badri-524651277/)
+- [gmail](mailto://amrutnikhil2004@gmail.com)
 
 ---
 
