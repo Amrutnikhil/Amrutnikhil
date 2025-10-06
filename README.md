@@ -39,7 +39,7 @@ Currently a 3rd-year Electronics & Communication Engineering student at PES Univ
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/amrut-badri-524651277/)
-- [gmail](mailto://amrutnikhil2004@gmail.com)
+- [gmail](mailto:amrutnikhil2004@gmail.com)
 
 ---
 
