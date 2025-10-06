@@ -5,7 +5,7 @@ Currently a 3rd-year Electronics & Communication Engineering student at PES Univ
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🚀 **Aspiring AI/ML Developer:**  
   I’m on a journey to become an AI/ML developer, eager to build intelligent systems and make a real-world impact.
@@ -16,7 +16,7 @@ Currently a 3rd-year Electronics & Communication Engineering student at PES Univ
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - Python
 - Artificial Intelligence (AI)
@@ -27,7 +27,7 @@ Currently a 3rd-year Electronics & Communication Engineering student at PES Univ
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - 📚 Diving deeper into AI, ML, and DSA concepts.
 - 🧩 Solving puzzles to keep my mind sharp.
